@@ -1,8 +1,6 @@
  import * as THREE from 'three';
 
- const punycode = require('punycode');
-
- const renderer = new THREE.WebGL3DRender();
+ const renderer = new THREE.WebGLRenderer();
 
  renderer.setSize(window.innerWidth, window.innerHeight);
 
