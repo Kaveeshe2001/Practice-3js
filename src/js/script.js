@@ -18,6 +18,7 @@
  const axesHelper = new THREE.AxesHelper(5);
  scene.add(axesHelper);
 
- camera.position.z = 5;
+ camera.position.set(0, 2, 5);
+ 
 
  renderer.render(scene, camera);

@@ -50,7 +50,7 @@
 61D:\My project\Practice-3js\node_modules\function-bind\LICENSE133667932129707368 0
 66D:\My project\Practice-3js\node_modules\underscore\cjs\constant.js133667905322313211 0
 75D:\My project\Practice-3js\node_modules\three\src\helpers\SkeletonHelper.js133667905482065507 0
-53D:\My project\Practice-3js\dist\index.e82f28a0.js.map133668045055588712 0
+53D:\My project\Practice-3js\dist\index.e82f28a0.js.map133668052199717033 0
 148D:\My project\Practice-3js\node_modules\@parcel\optimizer-htmlnano\node_modules\postcss-svgo\node_modules\csso\node_modules\css-tree\cjs\version.cjs133667934926642079 0
 79D:\My project\Practice-3js\node_modules\unicode-trie\node_modules\pako\lib\zlib133667932136147466 1
 86D:\My project\Practice-3js\node_modules\purgecss\node_modules\supports-color\readme.md133667932130267025 0
@@ -102,7 +102,7 @@
 67D:\My project\Practice-3js\node_modules\es-abstract\2021\MakeDay.js133667932143750829 0
 60D:\My project\Practice-3js\node_modules\sshpk\bin\sshpk-sign133667932129664201 0
 58D:\My project\Practice-3js\node_modules\yallist\yallist.js133667932128632213 0
-42D:\My project\Practice-3js\dist\index.html133668037431542525 0
+42D:\My project\Practice-3js\dist\index.html133668051599702062 0
 83D:\My project\Practice-3js\node_modules\expand-brackets\node_modules\debug\Makefile133667932131825422 0
 68D:\My project\Practice-3js\node_modules\underscore\amd\difference.js133667905322398401 0
 111D:\My project\Practice-3js\node_modules\@parcel\transformer-react-refresh-wrap\node_modules\ansi-styles\license133667934915890291 0
@@ -111,7 +111,7 @@
 117D:\My project\Practice-3js\node_modules\@parcel\runtime-browser-hmr\node_modules\@parcel\utils\test\sourcemap.test.js133667934925661816 0
 87D:\My project\Practice-3js\node_modules\three\src\nodes\materials\PointsNodeMaterial.js133667905481091957 0
 62D:\My project\Practice-3js\node_modules\ws\lib\event-target.js133667932129794202 0
-31D:\My project\Practice-3js\dist133668045055598058 1
+31D:\My project\Practice-3js\dist133668052199747027 1
 72D:\My project\Practice-3js\node_modules\three\src\core\BufferGeometry.js133667905476984483 0
 77D:\My project\Practice-3js\node_modules\core-js\library\modules\core.delay.js133667932140294776 0
 77D:\My project\Practice-3js\node_modules\babel-runtime\core-js\array\splice.js133667932139340411 0
@@ -272,7 +272,7 @@
 85D:\My project\Practice-3js\node_modules\core-js\modules\library\es6.date.to-string.js133667932141061710 0
 90D:\My project\Practice-3js\node_modules\@babel\helper-compilation-targets\lib\index.js.map133667932132014813 0
 72D:\My project\Practice-3js\node_modules\es-abstract\2022\Number\equal.js133667932140962545 0
-43D:\My project\Practice-3js\src\js\script.js133668045054799228 0
+43D:\My project\Practice-3js\src\js\script.js133668052198850674 0
 91D:\My project\Practice-3js\node_modules\parcel\node_modules\@parcel\utils\src\objectHash.js133667934924781345 0
 54D:\My project\Practice-3js\node_modules\lodash.memoize133667932129200638 1
 88D:\My project\Practice-3js\node_modules\three\examples\jsm\webxr\XRHandPrimitiveModel.js133667905485743797 0
@@ -32192,4 +32192,4 @@
 53D:\My project\Practice-3js\node_modules\.bin\uuid.cmd133667932149089275 0
 53D:\My project\Practice-3js\node_modules\.bin\uuid.ps1133667932149089275 0
 50D:\My project\Practice-3js\node_modules\.bin\which133667932149089275 0
-49D:\My project\Practice-3js\dist\index.e82f28a0.js133668045055547833 0
+49D:\My project\Practice-3js\dist\index.e82f28a0.js133668052199657070 0
