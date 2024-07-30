@@ -272,7 +272,7 @@
 85D:\My project\Practice-3js\node_modules\core-js\modules\library\es6.date.to-string.js133667932141061710 0
 90D:\My project\Practice-3js\node_modules\@babel\helper-compilation-targets\lib\index.js.map133667932132014813 0
 72D:\My project\Practice-3js\node_modules\es-abstract\2022\Number\equal.js133667932140962545 0
-43D:\My project\Practice-3js\src\js\script.js133668052198850674 0
+43D:\My project\Practice-3js\src\js\script.js133668052994282780 0
 91D:\My project\Practice-3js\node_modules\parcel\node_modules\@parcel\utils\src\objectHash.js133667934924781345 0
 54D:\My project\Practice-3js\node_modules\lodash.memoize133667932129200638 1
 88D:\My project\Practice-3js\node_modules\three\examples\jsm\webxr\XRHandPrimitiveModel.js133667905485743797 0
