@@ -604,13 +604,22 @@ const box = new _three.Mesh(boxGeometry, boxMaterial);
 scene.add(box);
 const planeGeometry = new _three.PlaneGeometry(30, 30);
 const planeMaterial = new _three.MeshBasicMaterial({
-    color: 0xFFFFFF
+    color: 0xFFFFFF,
+    side: _three.DoubleSide
 });
 const plane = new _three.Mesh(planeGeometry, planeMaterial);
 scene.add(plane);
-plane.rotation.x = 1 * Math.PI;
+plane.rotation.x = -0.5 * Math.PI;
 const gridHelper = new _three.GridHelper(30);
 scene.add(gridHelper);
+const sphereGeometry = new _three.SphereGeometry(4, 50, 50);
+const sphereMaterial = new _three.MeshBasicMaterial({
+    color: 0x0000FF,
+    wireframe: false
+});
+const sphere = new _three.Mesh(sphereGeometry, sphereMaterial);
+scene.add(sphere);
+sphere.position.set(-10, 10, 0);
 function animate(time) {
     box.rotation.x = time / 1000;
     box.rotation.y = time / 1000;
